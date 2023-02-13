@@ -18,7 +18,7 @@ module "sandbox_account_01" {
 
   account_tags = {
     "ABC:Owner"       = "john.doe@amazon.com"
-    "ABC:Division"    = "ENT"
+    "ABC:Division"    = "SMB"
     "ABC:Environment" = "Dev"
     "ABC:CostCenter"  = "123456"
     "ABC:Vended"      = "true"
